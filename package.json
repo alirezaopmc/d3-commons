@@ -2,9 +2,9 @@
   "name": "@cafedata/d3-commons",
   "version": "0.1.0",
   "description": "D3 common functions and methods.",
-  "main": "dist/how-long-till-lunch.min.js",
-  "module": "dist/how-long-till-lunch.esm.js",
-  "browser": "dist/how-long-till-lunch.umd.js",
+  "main": "dist/d3-commons.esm.js",
+  "module": "dist/d3-commons.esm.js",
+  "browser": "dist/d3-commons.umd.js",
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
@@ -17,15 +17,15 @@
   "types": "./dist/src",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zollero/rollup-typescript-starter-lib.git"
+    "url": "https://github.com/alirezaopmc/d3-commons.git"
   },
   "keywords": [],
   "author": "zollero <corona7@163.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zollero/rollup-typescript-starter-lib/issues"
+    "url": "https://github.com/alirezaopmc/d3-commons/issues"
   },
-  "homepage": "https://github.com/zollero/rollup-typescript-starter-lib#readme",
+  "homepage": "https://github.com/alirezaopmc/d3-commons#readme",
   "devDependencies": {
     "@babel/core": "7.17.5",
     "@babel/preset-env": "7.16.11",
