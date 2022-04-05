@@ -1,6 +1,6 @@
 {
   "name": "@cafedata/d3-commons",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "D3 common functions and methods.",
   "main": "dist/d3-commons.esm.js",
   "module": "dist/d3-commons.esm.js",
