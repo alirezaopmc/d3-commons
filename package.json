@@ -5,6 +5,7 @@
   "main": "dist/d3-commons.esm.js",
   "module": "dist/d3-commons.esm.js",
   "browser": "dist/d3-commons.umd.js",
+  "type": "module",
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
