@@ -11,6 +11,6 @@ export function textInterpolate(e1n, e2n) {
 		.style("opacity", d);
 	}
 
-	e1.transition(tr());
-	e2.transition(tr());
+	e1.transition(tr(0, 5000));
+	e2.transition(tr(1, 5000));
 }
