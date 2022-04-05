@@ -1,0 +1,1 @@
+export { textInterpolate } from "./text/text-interpolate";

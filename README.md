@@ -1,3 +1,2 @@
 # d3-commons
-
-D3 common functions and behaviours.
+D3 common functions and methods.
